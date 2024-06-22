@@ -2,4 +2,4 @@
 
 completely free for everyone. Its build-in Flutter Dart.
 
-<img src="membaca/screenshot/page2.jpg" height="480px" > 
+<img src="screenshot/page2.jpg" height="480px" > 
