@@ -1,4 +1,4 @@
-# Best-Flutter-UI
+# Flutter Ui
 
 ## Screenshots
 <img src="screenshot/page2.jpg" height="480px" > 
